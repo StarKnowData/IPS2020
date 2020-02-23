@@ -17,6 +17,29 @@
 
 ## 7. 机器学习基础
 
+---
+
+推荐购买书单，如果碰到了满返的话请速速购买，排序代表优先级：
+
+1. 利用 Python 进行数据分析，https://u.jd.com/IWXVLc ，注意，买第二版
+
+2. Python数据可视化之matplotlib实践 https://u.jd.com/UcOZiv 
+
+3. Python数据分析基础 https://u.jd.com/HARrxm
+
+4. 统计学习方法（第2版） https://u.jd.com/pvIzrj 
+
+5. 大数据分析：Python爬虫、数据清洗和数据可视化 https://u.jd.com/IRAZ18
+
+6. Python 机器学习手册 https://u.jd.com/gwD4xZ
+
+7. 大数据数学基础 PYTHON语言描述 https://u.jd.com/d5pasp
+
+8. 基于TensorFlow的深度学习 https://u.jd.com/7ZfkoW
+
+9. 4本 程序员的数学1+2+3 数学思维+概率统计+线性代数+程序员的英语 算法基础入门教程  https://u.jd.com/qVTqPF
+
+10. Python机器学习 5个数据科学家案例解析  https://u.jd.com/1M4i7x
 
 ---
 
